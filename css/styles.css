@@ -69,6 +69,10 @@ body {
   /* background-size: initial; */
 }
 
+.mainPage .container {
+  position: relative;
+}
+
 .header {
   align-items: center;
   display: flex;
@@ -168,7 +172,7 @@ body {
 .main-img {
   position: absolute;
   top: 100px;
-  left: 583px;
+  left: 233px;
   width: 1286px;
   height: 980px;
 }
@@ -178,6 +182,7 @@ body {
   background-image: url("../images/whybg.png");
   background-position: top center;
   background-size: initial;
+  background-repeat: no-repeat;
   padding-bottom: 180px;
 }
 
