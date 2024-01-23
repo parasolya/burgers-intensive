@@ -54,6 +54,7 @@ body {
   background: linear-gradient(95.61deg, #DA8023 0%, #E2B438 100%);
   
   border-style: none;
+  cursor: pointer;
 }
 
 .btn:hover,
